@@ -22,7 +22,6 @@ export const StatusSection = () => {
     text-transform: uppercase;
     color: #a8b8ca;
   `
-
   return (
     <div>
       <FiltersLabel>Status</FiltersLabel>
